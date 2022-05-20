@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {"id": 1, "title":  "javascript", "body": "hhkjjkjkjdkjfksdjkfjksdfks"},
+    {"id": 2, "title":  "js", "body": "jkjkjkjkjkjkjkjk"},
+    {"id": 3, "title":  "react", "body": "popopopopopopopop"},
+    {"id": 4, "title":  "next", "body": "the best from the west"}
+  ],
+  "about": {
+    "title": "About us"
+  }
+}
